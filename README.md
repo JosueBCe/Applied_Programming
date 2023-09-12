@@ -16,3 +16,4 @@ This is a simple Hello World program, implementing GitHub, VS Code and Python fe
 
 * [Visual Studio Code & GitHub](https://code.visualstudio.com/download)
 * [Git Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [Video Demo](https://youtu.be/C9t-LSxnZh4)
