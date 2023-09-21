@@ -1,9 +1,9 @@
 # Overview
 
-This is a simple Hello World program, implementing GitHub, VS Code and Python features
+This is a simple Hello World program, implementing GitHub, VS Code, and Python features
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/C9t-LSxnZh4)
 
 # Development Environment
 
